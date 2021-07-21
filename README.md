@@ -65,8 +65,8 @@ A simple html with the video tag.
 ## How it works
 
 This app is divided into two parts:
-1. Backend (server folder)
-2. Frontend (web folder)
+1. Backend 
+2. Frontend 
 
 
 ### Pre-requisites
