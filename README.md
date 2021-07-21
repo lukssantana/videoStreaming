@@ -1,2 +1,3 @@
 # Video Streaming
-Feel free to seek through the video and it only loads the part you want to       watch
+
+Audio/video streaming poc that loads only a small portion of the buffered video
