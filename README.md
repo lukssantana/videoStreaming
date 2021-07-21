@@ -22,12 +22,8 @@
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+   <a href="https://github.com/lukssantana/videoStreaming/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lukssantana/videoStreaming?style=social">
   </a>
 </p>
 
