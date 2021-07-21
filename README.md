@@ -11,14 +11,14 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukssantana/videoStreaming?color=%2304D361">
 	
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukssantana/videoStreaming">
 
-  <a href="https://www.twitter.com/tgmarinho/">
+  <!--<a href="https://www.twitter.com/tgmarinho/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
+  </a>-->
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+  <a href="https://github.com/lukssantana/videoStreaming/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukssantana/videoStreaming">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
