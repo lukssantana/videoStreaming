@@ -162,5 +162,5 @@ Made with love to learn and technology by Lucas Santana 👋🏽 [Get in Touch!]
 
 ##  Versions of README
 
-[Portuguese](./README.md)  |  [English without emojis](./README-en.md) | [Portugueses without logo](./README-sem-logo.md) 
+[Portuguese](./README.md)
 
