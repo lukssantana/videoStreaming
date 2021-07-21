@@ -138,10 +138,10 @@ POC - no contributors at moment.
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="Thiago Marinho"/>
+<a href="https://www.linkedin.com/in/lukssantanna/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/23119212?v=4" width="100px;" alt="Lucas Santanna"/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
+ <sub><b>Lucas Santanna</b></sub></a>
  <br />
 
 [![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
@@ -159,5 +159,4 @@ Made with love to learn and technology by Lucas Santana 👋🏽 [Get in Touch!]
 
 ##  Versions of README
 
-[Portuguese](./README.md)
-
+[English Version](./README.md)
