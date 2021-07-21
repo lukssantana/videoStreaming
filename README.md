@@ -144,7 +144,7 @@ POC - no contributors at moment.
  <sub><b>Lucas Santanna</b></sub></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas Santanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukssantanna/)](https://www.linkedin.com/in/lukssantanna/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukssantanna/)](https://www.linkedin.com/in/lukssantanna/) 
 [![Gmail Badge](https://img.shields.io/badge/-luks.santanna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luks.santanna@gmail.com)](mailto:luks.santanna@gmail.com)
 
 ---
