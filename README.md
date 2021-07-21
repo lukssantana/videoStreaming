@@ -80,13 +80,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone git@github.com:lukssantana/videoStreaming.git
 
 # Access the project folder cmd/terminal
-$ cd README-ecoleta
-
-# go to the server folder
-$ cd server
+$ cd videoStreaming
 
 # install the dependencies
 $ npm install
@@ -97,9 +94,9 @@ $ npm run dev:server
 # The server will start at port: 3333 - go to http://localhost:3333
 
 ```
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
+</p>-->
 
 ---
 
@@ -112,12 +109,12 @@ The following tools were used in the construction of the project:
 
 -   **[Express](https://expressjs.com/)**
 
-> See the file  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
+> See the file  [package.json](https://github.com/lukssantana/videoStreaming/blob/main/package.json)
 
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+<!--#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
--   API Test:  **[Insomnia](https://insomnia.rest/)**
+-   API Test:  **[Insomnia](https://insomnia.rest/)** -->
 
 ---
 
